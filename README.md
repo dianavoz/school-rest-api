@@ -1,2 +1,3 @@
-# school-rest-api
- A REST API created with Express for a school database
+
+# Full Stack JavaScript Techdegree v2 - REST API Project
+
