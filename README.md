@@ -47,11 +47,7 @@ And lastly, start the application.
 npm start
 ```
 
-Test route
-
-```
-Install Postman
-```
+Use Postman for thorough route testing.
 
 To test the Express server, browse to the URL [http://localhost:5000/](http://localhost:5000/).
 
