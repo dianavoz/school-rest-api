@@ -32,7 +32,6 @@ First, install the project's dependencies using `npm`.
 
 ```
 npm install
-
 ```
 
 Second, seed the SQLite database with data.
