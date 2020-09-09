@@ -6,6 +6,8 @@ const router = express.Router();
 const User = require('../models').User;
 const { check, validationResult } = require('express-validator');
 const authenticateUser = require("./authenticateUser");
+const bcryptjs = require('bcryptjs');
+
 
 // Helper function so that we don't need to add try/catch to every route
 function asyncHandler(cb) {
